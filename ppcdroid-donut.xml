@@ -106,6 +106,8 @@
   <project path="external/yaffs2" name="external-yaffs2"/>
   <project path="external/zlib" name="external-zlib"/>
   <project path="external/faad2" name="external-faad2"/>
+  <project path="external/tslib" name="external-tslib"/>
+  <project path="external/lirc" name="external-lirc"/>
 
   <project path="frameworks/base" name="frameworks-base"/>
   <project path="frameworks/opt/com.google.android" name="frameworks-opt-com_google_android"/>
