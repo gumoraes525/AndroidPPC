@@ -3,7 +3,7 @@
   <remote  name="ppcdroid"
 	   fetch="git://gitorious.org/ppcdroid/"
 	   review="" />
-  <default revision="master"
+  <default revision="donut-ppc"
            remote="ppcdroid" />
   
   <project path="kernel" name="kernel"/>
