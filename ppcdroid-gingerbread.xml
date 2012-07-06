@@ -4,7 +4,7 @@
   <remote  name="ppcdroid"
 	   fetch="git://gitorious.org/ppcdroid/"
 	   review="" />
-  <default revision="gingerbread"
+  <default revision="gingerbread-ppc"
            remote="ppcdroid"
            sync-j="4" />
 
