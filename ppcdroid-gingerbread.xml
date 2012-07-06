@@ -18,6 +18,7 @@
   <project path="cts" name="cts" />
   <project path="dalvik" name="dalvik" />
   <project path="development" name="development" />
+  <project path="device/amcc/canyonlands" name="vendor-amcc-canyonlands" />
   <project path="device/common" name="device-common" />
   <project path="device/google/accessory/arduino" name="device-google-accessory-arduino" />
   <project path="device/google/accessory/demokit" name="device-google-accessory-demokit" />
