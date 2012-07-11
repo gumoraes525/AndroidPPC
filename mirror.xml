@@ -81,10 +81,6 @@
   <project name="external-iproute2" />
   <project name="external-ipsec-tools" />
   <project name="external-iptables" />
-  <project name="external-icu4c" />
-  <project name="external-iproute2" />
-  <project name="external-ipsec-tools" />
-  <project name="external-iptables" />
   <project name="external-jdiff" />
   <project name="external-jhead" />
   <project name="external-jpeg" />
