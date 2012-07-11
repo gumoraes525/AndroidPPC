@@ -8,7 +8,7 @@
            remote="ppcdroid"
            sync-j="4" />
 
-  <project path="kernel" name="kernel">
+  <project path="kernel" name="kernel" />
   <project path="build" name="build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>

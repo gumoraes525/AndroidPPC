@@ -144,7 +144,6 @@
   <project name="external-faad2" />
   <project name="external-tslib" />
   <project name="external-lirc" />
-
   <project name="frameworks-base" />
   <project name="frameworks-ex" />
   <project name="frameworks-opt-com_google_android" />
