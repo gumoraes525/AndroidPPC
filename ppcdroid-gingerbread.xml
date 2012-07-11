@@ -28,6 +28,8 @@
   <project path="device/sample" name="device-sample" />
   <!--<project path="device/samsung/crespo" name="device-samsung-crespo" />
   <project path="device/samsung/crespo4g" name="device-samsung-crespo4g" /> -->
+  <project path="external/alsa-lib" name="external-alsa-lib" />
+  <project path="external/alsa-utils" name="external-alsa-utils" />
   <project path="external/apache-http" name="external-apache-http" />
   <project path="external/astl" name="external-astl" />
   <project path="external/bison" name="external-bison" />
@@ -115,6 +117,7 @@
   <project path="frameworks/base" name="frameworks-base" />
   <project path="frameworks/ex" name="frameworks-ex" />
   <project path="frameworks/opt/emoji" name="frameworks-opt-emoji" />
+  <project path="hardware/alsa_sound" name="hardware-alsa_sound" />
   <project path="hardware/broadcom/wlan" name="hardware-broadcom-wlan" />
   <project path="hardware/libhardware" name="hardware-libhardware" />
   <project path="hardware/libhardware_legacy" name="hardware-libhardware_legacy" />
