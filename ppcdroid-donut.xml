@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="ppcdroid"
-	   fetch="git://gitorious.org/ppcdroid/"
+	   fetch="git://github.com/ppcdroid/"
 	   review="" />
   <default revision="donut-ppc"
            remote="ppcdroid" />
