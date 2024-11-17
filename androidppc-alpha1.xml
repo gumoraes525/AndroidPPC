@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="ppcdroid"
-	   fetch="git://github.com/ppcdroid/"
+	   fetch="https://github.com/ppcdroid/"
 	   review="" />
+  <remote  name="korg"
+	   fetch="https://android.googlesource.com/"
+	   review="https://android-review.googlesource.com" />
   <default revision="donut-ppc"
            remote="ppcdroid" />
   
@@ -95,7 +98,7 @@
   <project path="external/sqlite" name="external-sqlite"/>
   <project path="external/srec" name="external-srec"/>
   <project path="external/strace" name="external-strace"/>
-  <project path="external/svox" name="external-svox"/>
+  <project path="external/svox" name="platform/external/svox" remote="korg" revision="donut-release" />
   <project path="external/tagsoup" name="external-tagsoup"/>
   <project path="external/tcpdump" name="external-tcpdump"/>
   <project path="external/tinyxml" name="external-tinyxml"/>
